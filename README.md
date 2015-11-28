@@ -1,3 +1,3 @@
 # expandedSwapi
 
-tripleoughtt.github.io/expandedSwapi
+http://tripleoughtt.github.io/expandedSwapi
