@@ -1,0 +1,9 @@
+<h1>Choose Your Planet!</h1>
+
+<div class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Planets!<span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li ng-repeat="planet in usablePlanets" ng-click="planetSelect(planet)"><a href="#">{{planet.name}}</a></li>
+  </ul>
+</div>
